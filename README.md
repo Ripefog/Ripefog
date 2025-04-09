@@ -1,14 +1,14 @@
 <div align="center">
   <a>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhlMDNkbzJlN3lubG84OHcybGF1Y216OXFzNDgwajB2ajlienExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MNmcksbeT6dRGP6Ev/giphy.webp" alt="MasterHead">
+    <img src="caculus.gif" alt="Caculus">
   </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Khuong from Vietnam</h1>
 <h3 align="center">😼AI Engineer | Coder | Researcher😼</h3>
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxyNnVieDdjeXB0bnZqc3VpazFhaDZ2M2N2aGJweWw5ZDFmdWRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLqhIS6YSREmH12tTi/giphy.webp"></p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="mario.gif"></p>
 
-<p align="center"> <img width="140" src="https://media3.giphy.com/media/q0vHNExWIUGSBApPC4/200.webp"  alt="GitHub Profile Trophy"/></p>
+<p align="center"> <img width="140" src="meocute.gif"  alt="GitHub Profile Trophy"/></p>
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
 
