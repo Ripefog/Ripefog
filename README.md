@@ -1,14 +1,9 @@
-<div align="center">
-    <a>
-        <img src="chayquachaylai.gif" alt="run">
-    </a>
-</div>
+
 <h1 align="center">Hi 👋, I'm Khuong from Vietnam</h1>
 <h3 align="center">😼AI Engineer | Coder | Researcher😼</h3>
 <h2 align="center">I have a strong interest in AI advancements and Machine Learning, Deep Learning applications. Experience in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Web App Development.</h2>
 <p align="left"> <img align="right" alt="Coding" width="400" src="caculus.gif"></p>
 
-<p align="center"> <img width="140" src="meocute.gif"  alt="GitHub Profile Trophy"/></p>
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
 
