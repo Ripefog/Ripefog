@@ -27,7 +27,7 @@
 <div align="center">
   
   <h2 align="center">GitHub Profile Potato</h2>
-  <p align="center">🏆 Just for fun, becuase I don't have much 🏆</p>
+  <p align="center">🏆 Just for fun, because I don't have much 🏆</p>
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ripefog&theme=radical" alt="ripe-fog" /></a> </p>
 
