@@ -28,7 +28,7 @@
 - ⚡ Fun fact: **I'm a chill guy**
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ripefog&label=Profile%20views&color=0e75b6&style=flat" alt="ripe-fog" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ripefog&label=Profile%20views&color=0e75b6&style=flat" alt="ripefog" /> </p>
 
 <div align="center">
   
