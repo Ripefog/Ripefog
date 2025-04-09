@@ -4,8 +4,8 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Hee from Vietnam</h1>
-<h3 align="center">😼Nerd AI healthcare Coder | Biomedical Engineer | Graphic Designer Potato😼</h3>
+<h1 align="center">Hi 👋, I'm Khuong from Vietnam</h1>
+<h3 align="center">😼AI Engineer | Coder | Researcher😼</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxyNnVieDdjeXB0bnZqc3VpazFhaDZ2M2N2aGJweWw5ZDFmdWRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLqhIS6YSREmH12tTi/giphy.webp"></p>
 
 <p align="center"> <img width="140" src="https://media3.giphy.com/media/q0vHNExWIUGSBApPC4/200.webp"  alt="GitHub Profile Trophy"/></p>
@@ -14,14 +14,14 @@
 
 - 👾 Also, I'm working on **POLARIS ARTHUB** as **Assistant Manager**
 
-- 👨‍💻 All of my projects are available at: [heequoc.me](https://heequoc.me/)
+- 👨‍💻 All of my projects are available at: [ripefog.me](https://github.com/Ripefog?tab=repositories)
 
 - 📫 How to reach me: **huynhngocduykhuong@gmail.com**
 
-- ⚡ Fun fact: **I want to blend between Art and Science**
+- ⚡ Fun fact: ****
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="hee-quoc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="ripe-fog" /> </p>
 
 <div align="center">
   
