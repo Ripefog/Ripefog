@@ -14,7 +14,7 @@
 
 - 👾 Also, I'm working on **VLAI TEAM** as **Reseacher**
 
-- 👨‍💻 All of my projects are available at: [ripefog.me](https://github.com/Ripefog?tab=repositories)
+- 👨‍💻 All of my projects are available at: [Ripefog](https://github.com/Ripefog?tab=repositories)
 
 - 📫 How to reach me: **huynhngocduykhuong@gmail.com**
 
