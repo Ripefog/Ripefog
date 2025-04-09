@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at: [heequoc.me](https://heequoc.me/)
 
-- 📫 How to reach me: **nghy2403@gmail.com**
+- 📫 How to reach me: **huynhngocduykhuong@gmail.com**
 
 - ⚡ Fun fact: **I want to blend between Art and Science**
 
