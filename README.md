@@ -3,9 +3,11 @@
     <img src="caculus.gif" alt="Caculus">
   </a>
 </div>
-<a>
-    <img src="chayquachaylai.gif" alt="run">
-</a>
+<div align="center">
+    <a>
+        <img src="chayquachaylai.gif" alt="run">
+    </a>
+</div>
 <h1 align="center">Hi 👋, I'm Khuong from Vietnam</h1>
 <h3 align="center">😼AI Engineer | Coder | Researcher😼</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="mario.gif"></p>
