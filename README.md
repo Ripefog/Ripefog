@@ -10,7 +10,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Khuong from Vietnam</h1>
 <h3 align="center">😼AI Engineer | Coder | Researcher😼</h3>
-<h3 align="center">I have a strong interest in AI advancements and Machine Learning, Deep Learning applications. Experience in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Web App Development.</h3>
+<h2 align="center">I have a strong interest in AI advancements and Machine Learning, Deep Learning applications. Experience in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Web App Development.</h2>
 <p align="left"> <img align="right" alt="Coding" width="400" src="mario.gif"></p>
 
 <p align="center"> <img width="140" src="meocute.gif"  alt="GitHub Profile Trophy"/></p>
