@@ -3,7 +3,7 @@
 <h3 align="center">😼AI Engineer | Coder | Researcher😼</h3>
 <h2 align="center">I have a strong interest in AI advancements and Machine Learning, Deep Learning applications. Experience in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Web App Development.</h2>
 <p align="left"> <img align="right" alt="Coding" width="400" src="caculus.gif"></p>
-
+<p align="center"> <img width="140" src="otaku.png"  alt="Avatar"/></p>
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
 
