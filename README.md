@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
 
-- 👾 Also, I'm working on **POLARIS ARTHUB** as **Assistant Manager**
+- 👾 Also, I'm working on **VLAI TEAM** as **Reseacher**
 
 - 👨‍💻 All of my projects are available at: [ripefog.me](https://github.com/Ripefog?tab=repositories)
 
 - 📫 How to reach me: **huynhngocduykhuong@gmail.com**
 
-- ⚡ Fun fact: ****
+- ⚡ Fun fact: **I'm excited in Robotics**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hee-quoc&label=Profile%20views&color=0e75b6&style=flat" alt="ripe-fog" /> </p>
