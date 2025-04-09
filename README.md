@@ -3,7 +3,9 @@
     <img src="caculus.gif" alt="Caculus">
   </a>
 </div>
-
+<a>
+    <img src="chayquachaylai.gif" alt="run">
+</a>
 <h1 align="center">Hi 👋, I'm Khuong from Vietnam</h1>
 <h3 align="center">😼AI Engineer | Coder | Researcher😼</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="mario.gif"></p>
@@ -64,7 +66,6 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
 
