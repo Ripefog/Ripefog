@@ -33,11 +33,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nguyen-hy-7386b8145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-hy-7386b8145" height="30" width="40" /></a>
-<a href="https://fb.com/hynguyen.2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hynguyen.2403" height="30" width="40" /></a>
-<a href="https://instagram.com/hee_quoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hee_quoc" height="30" width="40" /></a>
-<a href="https://www.behance.net/quchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="quchy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nghy2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nghy2403" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khuong-huynh-ngoc-duy-3b45ba207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripefog" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khuong.huynh.3745496/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hynguyen.2403" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_troioikhuongoi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hee_quoc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
