@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
 
-- 🎓 I’m also a **3rd-year** student at **Ho Chi Minh University of Technology (HCMUT)**
+- 🎓 I’m also a **final-year** student at **Ho Chi Minh University of Technology (HCMUT)**
 
 - 👾 Also, I'm working on **VLAI TEAM** as **Reseacher**
 
