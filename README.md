@@ -9,11 +9,9 @@
 <p align="left"> <img align="right" alt="Coding" width="400" src="caculus.gif"></p>
 <p align="center"> <img width="140" src="meocute.gif"  alt="GitHub Profile Trophy"/></p>
 
-- 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
+- 🔭 I’m currently working on **FPT** as **AI Engineer**
 
-- 🎓 I’m also a **final-year** student at **Ho Chi Minh University of Technology (HCMUT)**
-
-- 👾 Also, I'm working on **VLAI TEAM** as **Reseacher**
+- 🎓 I’m also a **fresh graduation** student at **Ho Chi Minh University of Technology (HCMUT)**
 
 - 👨‍💻 All of my projects are available at: [Ripefog](https://github.com/Ripefog?tab=repositories)
 
